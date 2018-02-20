@@ -31,7 +31,7 @@
 
   <properties>
     <sbt.project.name>cook</sbt.project.name>
-    <mesos.version>1.0.0</mesos.version>
+    <mesos.version>1.4.0</mesos.version>
     <mesos.classifier>shaded-protobuf</mesos.classifier>
   </properties>
 
